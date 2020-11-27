@@ -1,0 +1,6 @@
+projectKey=com.pt.hf:SonarPostgreIntegration
+serverUrl=http://localhost:9000/sonarqube-dev
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/sonarqube-dev/dashboard?id=com.pt.hf%3ASonarPostgreIntegration
+ceTaskId=AXYJkUQVutxk6_8juvXK
+ceTaskUrl=http://localhost:9000/sonarqube-dev/api/ce/task?id=AXYJkUQVutxk6_8juvXK
